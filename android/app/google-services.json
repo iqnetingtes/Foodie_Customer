@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21176098268",
+    "project_id": "ubercliente-bbc62",
+    "storage_bucket": "ubercliente-bbc62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21176098268:android:1a33c1a2b551a199e98319",
+        "android_client_info": {
+          "package_name": "com.iqnetingfoodies.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADF0skDudMpLWQ4rWGAJ3D84_RbApmJj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
